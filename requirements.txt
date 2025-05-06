@@ -1,13 +1,2 @@
 flask
-telebot
-socket
-shutil
-atexit
-threading
-subprocess
-importlib.util
-types
-ThreadPoolExecutor
-timedelta
-datetime
-os
+pyTelegramBotAPI
